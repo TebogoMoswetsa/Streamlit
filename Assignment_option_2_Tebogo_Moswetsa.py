@@ -6,7 +6,6 @@ Created on Mon Feb  5 22:35:10 2024
 """
 import pandas as pd
 import streamlit as st
-from streamlit_echarts import st_echarts
 import matplotlib.pyplot as plt
 
 
