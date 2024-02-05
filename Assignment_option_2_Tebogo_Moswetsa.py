@@ -20,4 +20,5 @@ xAxis = df['Country']
 
 
 st.line_chart(df[["Age", "Country"]])
-
+st.line_chart(df[[ "Country"]])
+st.line_chart(df[["Age"]])
